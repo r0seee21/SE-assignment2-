@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("Hi from MAIN + FEATURE-2")
+print("Hi from MAIN")
